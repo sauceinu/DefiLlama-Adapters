@@ -1,0 +1,7 @@
+const SAUCEINU_TOKEN_CONTRACT = '0x00000000000000000000000000000000002d3bd3';
+
+module.exports = {
+  timetravel: false,
+  methodology: 'The TVL is the current USD sum of all pools found under https://analytics.saucerswap.finance/token/0.0.2964435',
+  fetch
+}
